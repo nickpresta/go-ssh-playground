@@ -1,8 +1,6 @@
-# Shorter
+# SSH Playground
 
 ![Powered by Gophers](http://i.imgur.com/SwkPj.png "Powered by Gophers")
-
-## SSH Playground
 
 This repo contains code that connects via SSH and does stuff. Ideally this would turn into a
 [Fabric](http://docs.fabfile.org/en/1.6/)-like library for Go.
