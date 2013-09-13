@@ -17,4 +17,4 @@ Some files that help during implementation.
 
 ## License
 
-Goscribe and Goscribed are released under the MIT license. See `LICENSE.md` for details.
+This code is released under the MIT license. See `LICENSE.md` for details.
